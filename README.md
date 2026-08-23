@@ -60,20 +60,20 @@ Third-party dependencies and their licenses are disclosed in [THIRD_PARTY_NOTICE
 
 ## ⚠️ Scoras Digital DevOps Agent — Verificação
 
-[![DevOps Score](https://img.shields.io/badge/DevOps%20Score-56%2F100%20(C)-yellow?style=for-the-badge&logo=github)](./andersonamaral2_deepseek-harness_2026-08-22.md)
+[![DevOps Score](https://img.shields.io/badge/DevOps%20Score-56%2F100%20(C)-yellow?style=for-the-badge&logo=github)](./andersonamaral2_deepseek-harness_2026-08-23.md)
 [![Scoras DevOps Agent](https://img.shields.io/badge/Scoras_DevOps_Agent-Verificado-blue?style=for-the-badge&logo=githubactions)](https://github.com/andersonamaral2/deepseek-harness)
 
 | Campo | Valor |
 |-------|-------|
 | 🤖 Avaliado por | Scoras Digital DevOps Agent |
-| 📅 Data da Avaliação | `22/08/2026` |
+| 📅 Data da Avaliação | `23/08/2026` |
 | 📊 Score DevOps & Segurança | `56/100` |
 | 🎯 Nota | C — Regular |
-| 📄 Relatório Completo | [andersonamaral2_deepseek-harness_2026-08-22.md](./andersonamaral2_deepseek-harness_2026-08-22.md) |
+| 📄 Relatório Completo | [andersonamaral2_deepseek-harness_2026-08-23.md](./andersonamaral2_deepseek-harness_2026-08-23.md) |
 
 > *Este repositório foi auditado automaticamente pelo **Scoras Digital DevOps Agent**,*  
 > *verificando métricas DORA, CI/CD, segurança (CVEs, secrets, SAST) e boas práticas.*  
-> *Última avaliação: **22/08/2026***
+> *Última avaliação: **23/08/2026***
 
 ---
 
